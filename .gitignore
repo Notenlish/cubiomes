@@ -37,3 +37,4 @@ ancient_city_silence_find.c
 
 minecraft-*-jar-data/*
 minecraft-*-java-code/*
+/build-zig

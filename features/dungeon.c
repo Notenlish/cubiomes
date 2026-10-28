@@ -3,6 +3,8 @@
 #include "mineshaft.h"
 #include "../rng.h"
 
+#include "../carver.h"
+
 #include <stdlib.h>
 #include <string.h>
 

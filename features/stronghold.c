@@ -2,6 +2,8 @@
 
 #include <string.h>
 
+#include "../carver.h"
+
 #include "piece.h"
 #include "mineshaft.h"
 #include "dungeon.h"
